@@ -1,0 +1,6 @@
+mkdir aa
+cd aa
+mkdir bb
+cd bb
+cd ..
+cd /home

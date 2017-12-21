@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/creat.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cd.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dowrite.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rmdir.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/close.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/open.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/help.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FileSubstr.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/filewrite.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rm.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exitsys.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cat.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/startsys.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/doread.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/.idea/open_path.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mkdir.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/fileread.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/open_path.cpp" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
